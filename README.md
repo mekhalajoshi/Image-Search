@@ -1,4 +1,4 @@
-# Create React App [![Build Status](https://travis-ci.com/mekhalajoshi/CICD.svg?branch=master]
+# TODO App [![Build Status](https://api.travis-ci.com/mekhalajoshi/CICD.svg?branch=master)](https://travis-ci.com/github/mekhalajoshi/CICD/builds)
 
 ## Table of contents
 * [General info](#general-info)
@@ -18,7 +18,6 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
 $ npm install
 $ npm start
 ```
